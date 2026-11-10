@@ -9,6 +9,20 @@
 **Project Period:** November 10 – December 31, 2026  
 **Classification:** Simulated Portfolio Demonstration
 
+## Project Portfolio Visuals
+
+### Main Project Banner
+
+![IT Support Main Banner](Gemini_Generated_Image_74pk2u74pk2u74pk.jpg)
+
+### Project Topics — Part 01
+
+![IT Support Topics Part 1](Gemini_Generated_Image_lw3jc6lw3jc6lw3j.jpg)
+
+### Project Topics — Part 02
+
+![IT Support Topics Part 2](Gemini_Generated_Image_yutlppyutlppyutl.jpg)
+
 ---
 
 ## Project Overview
@@ -86,8 +100,6 @@ The work covers computer hardware, operating systems, software management, netwo
 ### 17. Lessons Learned & Final Project Closure
 - Summarized project learning and technical findings.
 - Prepared final recommendations and simulated project closure documentation.
-
----
 
 ## Skills Demonstrated
 
